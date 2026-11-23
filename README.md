@@ -12,7 +12,9 @@ My background is in Business Administration and fixed-asset management in the bi
 
 ## Projects
 
-I'm publishing my first projects here. Coming soon: web systems and data dashboards built with Claude Code.
+- **[Altrão & Pocibom Advogados — Website](https://github.com/Leocpsantos/site-altrao-pocibom-advogados):** institutional website for a law firm in Brazil, built with HTML, CSS and vanilla JavaScript using Claude Code. Responsive layout and a contact form that sends straight to WhatsApp.
+
+More coming soon: web systems and data dashboards built with Claude Code.
 
 ## Contact
 
