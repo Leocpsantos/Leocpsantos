@@ -12,6 +12,7 @@ My background is in Business Administration and fixed-asset management in the bi
 
 ## Projects
 
+- **[Atalho IA — Website](https://github.com/Leocpsantos/atalho-ia-site)** ([atalho.ia.br](https://atalho.ia.br)): website for my AI solutions business, in vanilla HTML, CSS and JavaScript built with Claude Code. It features Tec, an animated mascot with an in-browser assistant (no server, no API costs), a command palette and an interactive "shortcut map" that shows which steps of a task AI can take over.
 - **[Altrão & Pocibom Advogados — Website](https://github.com/Leocpsantos/site-altrao-pocibom-advogados):** institutional website for a law firm in Brazil, built with HTML, CSS and vanilla JavaScript using Claude Code. Responsive layout and a contact form that sends straight to WhatsApp.
 
 More coming soon: web systems and data dashboards built with Claude Code.
